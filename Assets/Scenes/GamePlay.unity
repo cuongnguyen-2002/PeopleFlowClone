@@ -3069,6 +3069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResultPanel
   _resultText: {fileID: 1488817054}
+  _restartBtn: {fileID: 1881855302}
 --- !u!1 &1881855300
 GameObject:
   m_ObjectHideFlags: 0
